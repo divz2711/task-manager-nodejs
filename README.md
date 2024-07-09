@@ -1,0 +1,1 @@
+## create a simple task tracker application using Express and Node.js. This application will provide a RESTful API for managing tasks. Users will be able to create, read, update, and delete tasks. The application will use an in-memory data structure to store tasks, making it simple and suitable for educational purposes.
